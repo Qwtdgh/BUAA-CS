@@ -1,0 +1,20 @@
+Everingham M, Van Gool L, Williams C K I, et al. The pascal visual object classes (voc) challenge
+Felzenszwalb P F, Girshick R B, McAllester D, et al. Object detection with discriminatively trained part-based models
+Sermanet P, Eigen D, Zhang X, et al. Overfeat: Integrated recognition, localization and detection using convolutional networks
+Szegedy C, Toshev A, Erhan D. et al.  Deep neural networks for object detection
+Uijlings J R R, Van De Sande K E A, Gevers T, et al. Selective search for object recognition
+Girshick R. Fast r-cnn[A] et al. .IEEE international conference on computer vision
+Shin H C, Roth H R, Gao M, et al. Deep convolutional neural networks for computer-aided detection: CNN architectures, dataset characteristics and transfer learning
+Liu L, Ouyang W, Wang X, et al. Deep learning for generic object detection: A survey
+Cheng G, Zhou P, Han J.  et al. Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images
+Sohn K.  et al. Improved deep metric learning with multi-class n-pair loss objective
+Xu D, Zhu Y, Choy C B, et al. Scene graph generation by iterative message passing
+Su C, Li J, Zhang S, et al. Pose-driven deep convolutional model for person re-identification
+Zou Z, Shi Z, Guo Y, et al. Object detection in 20 years: A survey
+Bargoti S, Underwood J. et al.  Deep fruit detection in orchards
+Girshick R, Donahue J, Darrell T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation
+Jia Y, Shelhamer E, Donahue J, et al. Caffe: Convolutional architecture for fast feature embedding
+He K, Girshick R, Dollár P. et al.  Rethinking imagenet pre-training
+Shafiee M J, Chywl B, Li F, et al. Fast YOLO: A fast you only look once system for real-time embedded object detection in video
+Lowe D G.  et al. Object recognition from local scale-invariant features
+Jarrett K, Kavukcuoglu K, Ranzato M A, et al. What is the best multi-stage architecture for object recognition?
