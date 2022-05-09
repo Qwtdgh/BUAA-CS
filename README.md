@@ -28,6 +28,4 @@
     
   + 下载完后，chromedriver.exe和py文件放在同一目录下，仓库自带的为88.0.4324.190版本。
 
-### ~~使用教程~~（如何写脚本的教程）
-
 [My blog](https://wandy666.github.io./2021/03/08/qiangker/)
